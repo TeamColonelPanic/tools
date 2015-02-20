@@ -10,4 +10,4 @@ perl ./rip-git.pl -v -u http://www.example.com/.git/
 Reference usage
 ---------------
 
-[9447 CTF 2014 / Tumorous](https://github.com/ctfs/write-ups-2014/9447-ctf-2014/tumorous)
+[9447 CTF 2014 / Tumorous](https://github.com/ctfs/write-ups-2014/tree/master/9447-ctf-2014/tumorous)
