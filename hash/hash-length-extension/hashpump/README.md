@@ -1,0 +1,9 @@
+HashPump
+========
+
+[hashpump](https://github.com/bwall/HashPump) can be used to exploit the hash length extension attack in various hashing algorithms.
+
+Reference usage
+---------------
+
+[Plaid CTF 2014 / mtpox](https://github.com/ctfs/write-ups-2014/tree/master/plaid-ctf-2014/mtpox)
