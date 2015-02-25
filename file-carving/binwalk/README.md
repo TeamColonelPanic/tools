@@ -1,7 +1,7 @@
 binwalk
 =======
 
-[binwalk](https://github.com/devttys0/binwalk)can be used for analyzing, reverse engineering, and extracting firmware ,images
+[binwalk](https://github.com/devttys0/binwalk) can be used for analyzing, reverse engineering, and extracting firmware ,images
 
 ```
 binwalk --options inputfilename 
