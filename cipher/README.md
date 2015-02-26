@@ -3,6 +3,11 @@ Cipher Tools
 
 Herein lie the tools that can be used whenever ciphers are involved.
 
+Tools in this repo
+------------------
+
++ [SCBSolvr](SCBSolvr.zip) for breaking monoalphabetic substitution ciphers
+
 Other repo links
 ----------------
 
