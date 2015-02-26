@@ -18,3 +18,4 @@ Other repo links
   + [Caesar Cipher Bruteforce](https://github.com/YASME-Tim/crypto-tools/tree/master/rot)
   + [Phone Keypad - HandyCode](https://github.com/YASME-Tim/crypto-tools/tree/master/handycode)
 + [CRYPTOOL](https://www.cryptool.org/en/)
++ [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/)
