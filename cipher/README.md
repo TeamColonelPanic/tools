@@ -20,4 +20,4 @@ Other links
 + [CRYPTOOL](https://www.cryptool.org/en/)
 + [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/)
 + [CryptoCrack](https://sites.google.com/site/cryptocrackprogram/)
-+ [quipqiup](http://www.quipqiup.com/) - A fast and automated cryptogram solver
++ [quipqiup](http://www.quipqiup.com/) - A fast and automated cryptogram solver. Has 2 modes (trusting spaces, and finding spaces).
