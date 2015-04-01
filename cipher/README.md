@@ -8,8 +8,8 @@ Tools in this repo
 
 + [SCBSolvr](SCBSolvr.zip) for breaking monoalphabetic substitution ciphers
 
-Other repo links
-----------------
+Other links
+-----------
 
 + [YASME-Tim Crypto Tools](https://github.com/YASME-Tim/crypto-tools) contains
   + [Finding coding/hashing scheme](https://github.com/YASME-Tim/crypto-tools/tree/master/find-coding-scheme)
