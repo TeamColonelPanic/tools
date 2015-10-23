@@ -21,3 +21,4 @@ Other links
 + [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/)
 + [CryptoCrack](https://sites.google.com/site/cryptocrackprogram/)
 + [quipqiup](http://www.quipqiup.com/) - A fast and automated cryptogram solver. Has 2 modes (trusting spaces, and finding spaces).
++ [f00l Vigenere Cracker](http://f00l.de/hacking/vigenere.php) - Helps crack vigenere. Not very customizable, however.
