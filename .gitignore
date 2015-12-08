@@ -1,0 +1,13 @@
+
+# Created by https://www.gitignore.io/api/linux
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
