@@ -22,3 +22,4 @@ Other links
 + [CryptoCrack](https://sites.google.com/site/cryptocrackprogram/)
 + [quipqiup](http://www.quipqiup.com/) - A fast and automated cryptogram solver. Has 2 modes (trusting spaces, and finding spaces).
 + [f00l Vigenere Cracker](http://f00l.de/hacking/vigenere.php) - Helps crack vigenere. Not very customizable, however.
++ `zbar-tools` for decoding barcodes and qr codes (installed using `apt-get`)
