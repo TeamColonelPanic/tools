@@ -11,8 +11,9 @@ Run python in a directory that has `shell.py` in it and run the following comman
 ```
 import shell
 while True:
-	print ">>>",
-	print "    ", shell.quote(raw_input())
+	print "Input string >>>",
+    x = raw_input()
+	print "    ", shell.quote(x)
 	print ""
 
 ```
