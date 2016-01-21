@@ -1,4 +1,4 @@
-PE Tools
-========
+PETOOLS
+=======
 
-Probably the most useful tool is [PEiD](PEiD-0.95.zip) which detects most common packers, cryptors and compilers for PE files.
+Herin lies the tools for the analysis of PE file format.
